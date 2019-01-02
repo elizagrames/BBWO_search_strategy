@@ -1,0 +1,923 @@
+group,term,x
+bird,black woodpecker,35
+bird,cockaded woodpecker habitat,64
+bird,cockaded woodpecker population,61
+bird,downy woodpecker,89
+bird,hairy woodpecker nests,70
+bird,nesting woodpeckers,53
+bird,pileated woodpeckers,73
+bird,spotted woodpecker,144
+bird,toed woodpecker,163
+bird,toed woodpecker picoides tridactylus,99
+bird,toed woodpeckers,137
+bird,woodpecker age,38
+bird,forest bird communities,128
+bird,bird survey,48
+bird,bird surveys,107
+bird,breeding bird community,158
+bird,picoides albolarvatus,116
+bird,picoides pubescens,80
+bird,picoides tridactylus,156
+"bird, process",woodpecker foraging,137
+"bird,response",woodpecker habitat,178
+"bird, response",woodpecker abundance,48
+fire,burnt areas,56
+fire,fire behavior,136
+fire,burned habitat,85
+fire,burned habitats,128
+fire,postfire habitats,60
+fire,burned conifer forests,61
+fire,burned pine forests,108
+fire,postfire forest,68
+fire,postfire forests,151
+fire,severely burned forests,52
+fire,burned pine,169
+fire,burned ponderosa pine,174
+fire,biscuit fire,60
+fire,contemporary fires,56
+fire,fire disturbance,147
+fire,fire edges,53
+fire,fire season,174
+fire,fire weather,76
+fire,frequent fires,120
+fire,intensity fires,68
+fire,low severity fires,79
+fire,postfire logging,77
+fire,recent fires,63
+fire,replacement fires,88
+fire,season fires,150
+fire,severe fire,162
+fire,severe fires,141
+fire,severe wildfire,67
+fire,severe wildfires,91
+fire,severity wildfire,125
+fire,severity wildfires,84
+fire,summer wildfire,135
+fire,surface fires,68
+fire,wildfire activity,90
+fire,wildland fire,132
+fire,burn frequency,68
+fire,burn intervals,106
+fire,burn severities,116
+fire,burn treatments,174
+fire,burn units,56
+fire,burned landscape,65
+fire,burned treatments,94
+fire,dormant season burning,72
+fire,dormant season burns,47
+fire,frequent burning,118
+fire,recent burns,118
+fire,season burning,158
+fire,spring burn,83
+fire,spring burning,115
+"fire, process",postfire succession,72
+no,food supplementation,40
+no,foraging guild,117
+no,foraging guilds,73
+no,foraging species,110
+no,forest habitat,450
+no,forest habitats,119
+no,forested habitats,43
+no,grassland habitats,74
+no,habitat alteration,108
+no,habitat association,155
+no,habitat associations,182
+no,habitat conservation,121
+no,habitat distribution,77
+no,habitat elements,63
+no,habitat factors,45
+no,habitat fragmentation,238
+no,habitat heterogeneity,124
+no,habitat loss,555
+no,habitat management,674
+no,habitat patch,62
+no,habitat patches,103
+no,habitat preferences,108
+no,habitat relationships,146
+no,habitat requirements,180
+no,habitat scale,52
+no,habitat specialists,37
+no,habitat species,301
+no,habitat structures,133
+no,habitat type,189
+no,habitat types,178
+no,habitat variables,288
+no,pine habitat,117
+no,pine habitats,63
+no,riparian habitats,110
+no,roosting habitat,108
+no,savanna habitat,113
+no,source habitat,165
+no,successional habitat,162
+no,successional habitats,102
+no,unburned habitat,49
+no,unburned habitats,135
+no,wildlife habitat,386
+no,forest bird species,157
+no,forest birds,180
+no,unburned forest,279
+no,unburned forests,349
+no,mountain bluebird,143
+no,mountain bluebirds,66
+no,nesting bird,417
+no,nesting bird species,216
+no,nesting birds,911
+no,unburned sites,195
+no,affected survival,40
+no,unburned stands,179
+no,fire exclusion,423
+no,fire hazard,72
+no,fire suppression,964
+no,fire surrogate,230
+no,wildfire risk,55
+no,unburned control,155
+no,unburned control plots,70
+no,unburned controls,69
+no,unburned patches,72
+no,unburned plots,120
+no,bird conservation,151
+no,bird diversity,202
+no,bird richness,56
+no,bird species,1954
+no,bird species richness,209
+no,breeding bird species,149
+no,breeding birds,390
+no,dependent bird species,70
+no,grassland birds,51
+no,headed cowbird,138
+no,individual birds,57
+no,land birds,75
+no,resident birds,55
+no,western bluebird,274
+no,wintering birds,41
+process,snag basal,86
+process,foraging trees,133
+process,tree survival,57
+process,decayed snags,87
+process,fir snags,76
+process,pine snags,132
+process,ponderosa pine snags,60
+process,snag availability,92
+process,snag characteristics,111
+process,snag densities,161
+process,snag dynamics,77
+process,snag recruitment,42
+process,snag use,80
+process,foraging ecology,60
+process,food availability,164
+process,food source,64
+process,food sources,24
+process,food supply,72
+process,habitat resources,36
+process,forage availability,55
+process,foraging birds,109
+process,foraging habitat selection,76
+process,foraging opportunities,92
+process,foraging substrate,74
+process,foraging substrates,77
+process,available habitat,95
+process,breeding habitat,161
+process,habitat availability,104
+process,habitat changes,107
+process,habitat degradation,124
+process,habitat utilization,180
+process,potential habitat,58
+process,preferred habitat,51
+process,quality habitat,120
+process,daily nest survival,110
+process,nest survival rates,141
+process,annual survival,73
+process,apparent survival,42
+process,daily survival rates,180
+process,juvenile survival,52
+process,survival estimates,63
+response,habitat suitability models,85
+response,occupied habitats,34
+response,bird densities,146
+response,bird density,180
+response,bird populations,254
+response,total bird abundance,135
+response,total bird density,64
+process,home range sizes,80
+no,breeding range,65
+no,broad range,56
+no,cascade range,173
+no,geographic range,55
+no,natural range,61
+no,piranga ludoviciana,71
+no,range expansion,40
+no,wide range,77
+no,average size,74
+no,body size,30
+process,brood size,45
+process,clutch size,137
+no,patch size,149
+no,sample sizes,50
+no,size classes,104
+no,size distributions,78
+process,territory size,37
+process,tree size,134
+process,bark beetle activity,113
+process,bark beetle outbreaks,70
+process,bark samples,38
+process,bark thickness,22
+no,inner bark,28
+no,spruce bark,58
+no,tree bark,37
+process,beetle activity,113
+process,beetle assemblages,77
+process,beetle populations,121
+process,beetle species,87
+process,boring beetle larvae,99
+process,boring beetles,50
+process,saproxylic beetles,131
+process,southern pine beetle,155
+process,spruce beetle,80
+process,western pine beetle,45
+no,low basal,84
+process,stand basal,97
+process,tree basal,161
+process,insect outbreaks,110
+no,cover type,80
+no,cover types,151
+process,dense cover,48
+no,ecosystem recovery,61
+process,forb cover,58
+process,grass cover,76
+process,herbaceous cover,177
+process,herbaceous ground cover,73
+no,land cover,83
+process,percent canopy cover,91
+no,percent cover,106
+response,population recovery,59
+no,recovery plan,40
+process,understory cover,49
+process,vegetation cover,163
+process,vegetative cover,74
+no,artificial cavities,66
+process,excavated cavities,119
+process,tree cavities,152
+no,bearing trees,74
+no,canopy trees,142
+no,coniferous trees,47
+process,decayed trees,69
+no,deciduous trees,151
+no,fir trees,69
+no,individual trees,97
+process,larger diameter trees,84
+process,larger trees,102
+process,live residual trees,93
+process,living trees,45
+no,mature trees,104
+process,nesting trees,79
+no,overstory trees,125
+no,pine trees,155
+no,random trees,68
+process,recently dead trees,114
+no,regression trees,74
+no,residual trees,131
+no,roost trees,66
+process,tree age,84
+process,tree ages,77
+process,tree canopy,66
+process,tree characteristics,78
+process,tree death,59
+process,tree densities,88
+process,tree diameter,150
+no,tree diseases,66
+no,tree height,54
+no,tree hollow,53
+no,tree hollows,78
+no,tree injury,40
+no,tree pipit,34
+no,tree selection,123
+no,tree species,554
+no,tree species composition,90
+no,tree use,62
+process,coarse woody debris volume,78
+process,dead branches,63
+process,down wood,78
+no,eastern wood,121
+no,forest and woodland,445
+no,hardwood forest,194
+no,hardwood forests,248
+no,hardwood midstory,222
+no,hardwood species,93
+no,hardwood stands,161
+no,longleaf pine flatwoods,99
+no,mixed hardwood forests,86
+no,oak woodlands,133
+no,pine flatwoods,142
+no,pine woodlands,117
+no,upland hardwood,134
+no,upland hardwood forest,96
+no,western wood,61
+process,wood borers,59
+process,wood decay,55
+no,wood products,56
+no,wood thrush,82
+no,wood thrushes,67
+no,woodland conditions,85
+process,woody material,49
+process,woody plant species,59
+process,woody species,131
+process,woody stems,78
+process,larger diameter,163
+no,british ecological society,108
+no,disturbance ecology,39
+no,ecological benefits,59
+no,ecological consequences,141
+no,ecological effects,92
+no,ecological factors,61
+no,ecological functions,74
+no,ecological impacts,50
+no,ecological importance,44
+no,ecological integrity,60
+no,ecological relationships,73
+no,ecological requirements,33
+no,ecological restoration,378
+no,ecological restoration international,67
+no,ecological role,110
+no,ecological society,386
+no,ecological values,28
+no,landscape ecology,96
+no,restoration ecology,36
+no,terrestrial ecology,44
+no,ecosystem processes,134
+fire,natural disturbance processes,64
+no,natural processes,55
+response,population processes,41
+process,successional processes,73
+process,available resources,49
+no,forest resources,77
+no,natural resources,25
+process,resource availability,58
+no,resource managers,50
+process,resource selection,202
+process,nesting behavior,60
+no,aged forest,44
+no,american foresters,102
+no,american forests,131
+no,angelina national forest,74
+no,apalachicola national forest,78
+no,black spruce boreal forest,54
+no,black spruce forest,44
+no,boreal forest,900
+no,boreal forest landscapes,114
+no,boreal forests,528
+no,canadian boreal forest,97
+no,canopy forest,144
+no,canopy forests,257
+no,conecuh national forest,51
+no,conifer forest,360
+no,conifer forests,576
+no,coniferous forest,251
+no,coniferous forests,405
+no,deciduous forest,60
+no,deciduous forests,72
+no,degraded forest,37
+no,disturbed forest,92
+no,dry conifer forests,75
+no,dry forest,139
+no,dry forests,129
+no,eastern forests,45
+no,elevation forests,55
+no,forest age,155
+no,forest attributes,82
+no,forest biodiversity,60
+no,forest blocks,81
+no,forest canopy,147
+no,forest characteristics,106
+no,forest communities,147
+no,forest composition,105
+no,forest conditions,321
+no,forest degradation,78
+no,forest disturbance,148
+no,forest disturbances,69
+no,forest dynamics,130
+no,forest ecosystem,168
+no,forest ecosystems,451
+no,forest edge,18
+no,forest edges,124
+no,forest fauna,78
+no,forest floor,331
+no,forest fragmentation,217
+no,forest fragments,47
+no,forest harvesting,112
+no,forest health,101
+no,forest history,60
+no,forest insects,73
+no,forest landscape,230
+no,forest landscapes,248
+no,forest management,1863
+no,forest management activities,57
+no,forest management practices,246
+no,forest managers,412
+no,forest patches,252
+no,forest productivity,82
+no,forest remnants,46
+no,forest restoration,556
+no,forest restoration treatments,119
+no,forest service,448
+no,forest sites,106
+no,forest specialist,106
+no,forest species,301
+no,forest stands,538
+process,forest succession,100
+no,forest thinning,153
+no,forest type,227
+no,forest types,513
+no,forest vegetation,80
+no,forested ecosystems,53
+no,forested landscape,71
+no,forestry practices,229
+no,green forests,62
+no,growth forest,205
+no,growth forests,225
+no,hickory forest,60
+no,logged forest,109
+no,longleaf forests,45
+no,longleaf pine forest,188
+no,longleaf pine forests,311
+no,mature forest,143
+no,mature forest stands,45
+no,mature forests,247
+no,mixed conifer forest,175
+no,mixed conifer forests,234
+no,mixed coniferous forests,105
+no,national forest,930
+no,national forests,187
+no,native forest,42
+no,north american forests,127
+no,oak forest,124
+no,oak forests,139
+no,ocala national forest,37
+no,osceola national forest,69
+no,ouachita national forest,154
+no,pine forest,550
+no,pine forests,1333
+no,ponderosa pine forest,57
+no,ponderosa pine forests,369
+no,seral forest,76
+no,seral forests,49
+no,southern forests,52
+no,successional forests,83
+no,sustainable forest management,67
+no,sustainable forestry,107
+no,tropical forests,100
+no,undisturbed forests,109
+no,unlogged forest,97
+no,usda forest service,150
+no,virgin forests,48
+no,western north american forests,92
+response,age structure,147
+no,community structure,187
+response,population structure,70
+no,spatial structure,48
+process,structural attributes,173
+process,structural characteristics,133
+process,structural complexity,66
+process,structural differences,60
+process,structural diversity,126
+no,vertical structure,76
+no,bare ground,106
+no,ground layer,121
+process,ground layer vegetation,61
+no,ground level,124
+no,ground nesters,80
+no,fuel characteristic classification,56
+no,fuel characteristic classification system,56
+no,fuel characteristics,53
+no,landscape characteristics,57
+no,site characteristics,202
+no,natural component,35
+process,body condition,53
+no,canopy conditions,94
+no,environmental conditions,125
+fire,fuel conditions,74
+no,historical conditions,96
+no,landscape conditions,70
+no,reference conditions,127
+no,seral conditions,52
+no,site conditions,49
+no,soil conditions,62
+no,weather conditions,70
+no,ecosystem restoration,297
+no,grassland restoration,84
+no,longleaf pine restoration,137
+no,restoration efforts,282
+no,restoration methods,99
+no,restoration objectives,99
+no,restoration planning,51
+no,restoration strategies,55
+no,restoration treatments,348
+no,savanna restoration,103
+no,model selection,229
+no,roost selection,64
+no,selective harvesting,71
+no,selective logging,180
+no,footed mouse,71
+no,house wren,101
+no,land use,442
+no,major cause,90
+no,major causes,46
+response,population censuses,45
+no,space use,132
+no,useful tool,78
+no,livestock grazing,83
+no,mountain chickadee,122
+no,northern rocky mountains,130
+no,ouachita mountains,170
+no,rocky mountains,235
+no,southern appalachian mountains,109
+no,corsican pine,32
+no,dependent pine,45
+no,jack pine,203
+no,jack pine stands,71
+no,loblolly pine,219
+no,lodgepole pine,320
+no,longleaf pine,1668
+no,longleaf pine ecosystem,188
+no,longleaf pine ecosystems,117
+no,longleaf pine sandhills,144
+no,longleaf pine savannas,49
+no,longleaf pine stands,142
+no,longleaf pines,126
+no,mature longleaf pine,122
+no,mature pine,240
+no,mixed pine,127
+no,pine ecosystems,262
+no,pine plantation,77
+no,pine plantations,172
+no,pine rocklands,46
+no,pine savannas,119
+no,pine sawtimber,60
+no,pine seeds,38
+no,pine species,136
+no,pine stands,561
+no,ponderosa pine,1354
+no,ponderosa pines,117
+no,rotation pine,68
+no,shortleaf pine,225
+no,slash pine,101
+no,southeastern pine,68
+no,southern pine,270
+no,subalpine fir,85
+no,sugar pine,51
+no,untreated pine,79
+no,upland pine,137
+no,white pine,68
+no,yellow pine,84
+process,active nests,83
+no,avian nest,90
+no,nest age,62
+no,nest box,54
+no,nest boxes,62
+"response, process",nest densities,118
+"response, process",nest density,136
+process,nest failure,121
+process,nest locations,93
+process,nest predation,125
+process,nest predators,128
+"response, process",nesting densities,50
+"response, process",nesting density,121
+no,nesting period,55
+no,nesting season,79
+process,nesting site,92
+process,nesting sites,84
+no,nesting species,578
+process,nesting success,162
+process,nestling period,37
+process,potential nesting,72
+no,secondary cavity nesters,124
+no,shrub nesters,56
+no,species nesting,149
+process,successful nests,65
+no,breeding site,170
+no,colony sites,31
+no,control sites,96
+no,opposite pattern,51
+no,reference sites,120
+no,roost sites,78
+process,site availability,69
+process,site fidelity,83
+response,site occupancy,88
+no,site preparation,123
+no,site species,52
+no,strong site,55
+no,study site,137
+no,study sites,209
+no,breeding success,70
+process,plant succession,61
+process,successful reproduction,22
+no,successional species,91
+process,successional vegetation,65
+process,reproductive output,80
+process,reproductive parameters,88
+process,reproductive rates,69
+process,shrub density,81
+process,shrub height,66
+process,shrub layer,145
+no,shrub species,52
+no,low densities,65
+no,lower densities,54
+response,population densities,79
+no,conifer stands,114
+no,coniferous stands,77
+no,control stands,115
+no,deciduous stands,52
+no,dense stands,77
+no,growth stands,185
+no,mature stands,111
+no,mixed conifer stands,71
+no,origin stands,95
+process,stand ages,67
+no,stand density,65
+no,stand dynamics,67
+no,stand level,247
+no,stand scale,147
+no,stand types,75
+no,unmanaged stands,89
+no,untreated stands,137
+no,wildlife stand improvement,114
+no,active management,77
+no,adaptive management,158
+no,age classes,329
+no,age distribution,87
+no,assemblage composition,86
+no,carbon storage,57
+no,conservation management,137
+no,current management practices,85
+no,disturbance agents,62
+no,ecosystem management,227
+no,effective management,103
+no,foliage gleaners,112
+no,intensive management,130
+no,land management,457
+no,land management agencies,99
+no,land management tool,84
+no,land managers,482
+no,management actions,197
+no,management activities,354
+no,management agencies,99
+no,management concern,86
+no,management decisions,122
+no,management efforts,79
+no,management goals,124
+no,management guidelines,72
+no,management history,78
+no,management implications,127
+no,management intensity,85
+no,management measures,37
+no,management objectives,253
+no,management option,46
+no,management options,59
+no,management practice,70
+no,management practices,856
+no,management regimes,77
+no,management scenarios,77
+no,management strategies,337
+no,management strategy,104
+no,management systems,61
+no,management techniques,141
+no,management tool,275
+no,management treatments,88
+no,management units,53
+no,partially salvage,89
+no,salvage operations,55
+no,salvage treatment,58
+no,scale management,63
+no,seral stages,97
+response,species assemblages,162
+no,timber management,59
+no,vegetation management,67
+no,western tanager,76
+no,wildlife management,239
+no,annual rates,55
+no,conservation strategies,105
+response,detection rates,85
+process,growth rates,150
+process,invertebrate species,56
+no,moderate levels,53
+process,mortality rate,56
+process,mortality rates,103
+response,occupancy rates,54
+response,population growth rates,59
+process,predation rates,57
+no,similar rates,54
+no,strategic planning,65
+no,terrestrial vertebrates,42
+no,vertebrate species,131
+no,vertebrate taxa,47
+no,time frames,63
+no,time periods,108
+no,dependent mortality,50
+no,oak mortality,25
+no,herbaceous vegetation,138
+no,level vegetation,61
+no,midstory vegetation,91
+no,riparian vegetation,67
+process,vegetation change,52
+no,vegetation communities,105
+no,vegetation composition,135
+no,vegetation data,64
+no,vegetation responses,72
+no,vegetation science,61
+no,vegetation type,135
+no,vegetation types,226
+no,vegetation variables,68
+no,severity data,39
+no,severity patches,54
+no,control plots,391
+no,experimental plots,51
+no,logged plots,102
+no,permanent plots,59
+no,reference plots,94
+no,sample plots,55
+no,study plots,128
+no,unlogged plots,88
+no,adverse effects,86
+no,cumulative effects,86
+no,detrimental effects,135
+no,direct effects,127
+no,edge effects,66
+no,effective conservation,71
+no,effects model,34
+no,effects models,94
+no,indirect effects,142
+no,little effect,234
+no,negative effect,191
+no,negative effects,170
+no,positive effect,86
+no,positive effects,96
+no,potential effects,87
+no,quadratic effect,68
+no,significant effect,37
+no,significant effects,119
+no,strong effects,57
+no,term effects,274
+no,treatment effects,67
+no,variable effects,53
+no,historical data,54
+no,historical records,55
+no,intensity levels,72
+no,hydrological regimes,45
+no,frequent disturbance,78
+no,fuel bed,62
+no,fuel complexes,69
+no,fuel consumption,92
+no,fuel loading,125
+no,fuel loadings,49
+no,fuel moisture,87
+fire,fuel reduction treatments,254
+no,surface fuels,56
+no,reduction treatments,301
+no,ammodramus henslowii,67
+no,gene flow,32
+process,hollow abundance,48
+no,low density,103
+no,significantly lower,232
+no,dynamic nature,52
+no,natural enemies,28
+no,natural landscape,58
+process,natural regeneration,90
+no,natural variability,101
+no,anthropogenic disturbance,153
+no,anthropogenic disturbances,171
+no,disturbance interactions,69
+no,disturbance patterns,71
+no,disturbance types,107
+no,disturbed landscapes,46
+no,human disturbance,115
+no,scale disturbance,139
+no,breeding season,599
+no,breeding seasons,394
+no,dormant season,289
+no,growing seasons,162
+"bird, response",avian abundance,93
+no,avian biodiversity,105
+"bird,response",avian community composition,136
+no,avian conservation,126
+no,avian diversity,137
+no,avian responses,64
+no,avian species,373
+no,avian species richness,175
+no,animal communities,49
+no,arthropod communities,56
+no,biological communities,69
+no,faunal communities,93
+no,grassland communities,59
+no,mammal communities,85
+no,plant communities,275
+no,wildlife communities,104
+no,compositional analysis,60
+no,landscape composition,148
+bird,northern flickers colaptes auratus,83
+no,corsican nuthatch sitta whiteheadi,50
+no,headed nuthatch,87
+no,headed nuthatches,165
+no,sitta whiteheadi,50
+bird,melanerpes erythrocephalus,166
+no,northern arizona,141
+no,northern bobwhite,230
+no,northern bobwhites,116
+no,northern california,58
+no,northern cardinal,86
+no,northern cardinals,90
+no,northern flickers,113
+no,northern rockies,78
+no,northern sierra nevada,76
+no,northern spotted owl,83
+no,animal populations,109
+no,breeding population,62
+no,insect populations,78
+no,isolated populations,88
+no,local populations,44
+response,metapopulation dynamics,50
+no,metapopulation models,48
+response,population density,159
+response,population growth,110
+no,population level,143
+no,population levels,155
+response,population persistence,82
+response,population responses,69
+response,population sinks,58
+response,population trends,135
+response,population viability,84
+no,populus tremuloides,358
+no,populus tremuloides michx,48
+no,abundant species,54
+no,amphibian species,43
+no,animal species,176
+no,ant species,77
+no,associated species,285
+no,bat species,37
+no,breeding species,93
+no,common species,49
+no,coniferous species,48
+no,dependent species,340
+no,dependent wildlife species,50
+no,dwelling species,49
+no,endangered species,462
+no,focal species,154
+no,game species,45
+no,grassland species,74
+no,herbaceous species,73
+no,host species,34
+no,indicator species,303
+no,indicator species analysis,80
+no,individual species,339
+no,invasive species,105
+no,key species,37
+no,keystone species,78
+no,listed species,67
+no,mammal species,139
+no,native species,133
+no,numerous wildlife species,68
+no,oak species,81
+no,opportunistic species,69
+no,plant species,341
+no,plant species richness,90
+no,pyrophilous species,55
+no,rare species,123
+no,resident species,76
+no,saproxylic species,115
+no,sensitive species,154
+no,seven species,104
+no,specialist species,135
+no,species act,102
+no,species breeding,98
+no,species conservation,123
+no,species dependent,127
+response,species distribution models,159
+no,species level,96
+response,species occurrence,103
+response,species presence,47
+response,species responses,234
+no,species significantly,96
+no,species turnover,31
+no,target species,78
+no,threatened species,199
+no,various species,90
+no,various wildlife species,108
+no,wildlife species,614
+response,occupancy modeling,58
+response,occupancy probability,78
+response,abundance data,50
+no,ant abundance,72
+no,arthropod abundance,72
+process,prey abundance,52
+response,relative abundance,604
+response,relative abundances,80
+response,relatively abundant,91
+response,total abundance,71
+no,community dynamics,150
+no,sink dynamics,56
+no,temporally dynamic,41
+no,class distribution,39
+response,distribution patterns,47
+response,spatial distribution,140
+no,biodiversity conservation,231
+no,biological diversity,273
+no,genetic diversity,28
+no,plant diversity,146

@@ -1,0 +1,923 @@
+"","x"
+"home range sizes",80
+"breeding range",65
+"broad range",56
+"cascade range",173
+"geographic range",55
+"natural range",61
+"piranga ludoviciana",71
+"range expansion",40
+"wide range",77
+"average size",74
+"body size",30
+"brood size",45
+"clutch size",137
+"patch size",149
+"sample sizes",50
+"size classes",104
+"size distributions",78
+"territory size",37
+"tree size",134
+"bark beetle activity",113
+"bark beetle outbreaks",70
+"bark samples",38
+"bark thickness",22
+"inner bark",28
+"spruce bark",58
+"tree bark",37
+"beetle activity",113
+"beetle assemblages",77
+"beetle populations",121
+"beetle species",87
+"boring beetle larvae",99
+"boring beetles",50
+"saproxylic beetles",131
+"southern pine beetle",155
+"spruce beetle",80
+"western pine beetle",45
+"low basal",84
+"snag basal",86
+"stand basal",97
+"tree basal",161
+"burnt areas",56
+"insect outbreaks",110
+"cover type",80
+"cover types",151
+"dense cover",48
+"ecosystem recovery",61
+"forb cover",58
+"grass cover",76
+"herbaceous cover",177
+"herbaceous ground cover",73
+"land cover",83
+"percent canopy cover",91
+"percent cover",106
+"population recovery",59
+"recovery plan",40
+"understory cover",49
+"vegetation cover",163
+"vegetative cover",74
+"artificial cavities",66
+"excavated cavities",119
+"tree cavities",152
+"bearing trees",74
+"canopy trees",142
+"coniferous trees",47
+"decayed trees",69
+"deciduous trees",151
+"fir trees",69
+"foraging trees",133
+"individual trees",97
+"larger diameter trees",84
+"larger trees",102
+"live residual trees",93
+"living trees",45
+"mature trees",104
+"nesting trees",79
+"overstory trees",125
+"pine trees",155
+"random trees",68
+"recently dead trees",114
+"regression trees",74
+"residual trees",131
+"roost trees",66
+"tree age",84
+"tree ages",77
+"tree canopy",66
+"tree characteristics",78
+"tree death",59
+"tree densities",88
+"tree diameter",150
+"tree diseases",66
+"tree height",54
+"tree hollow",53
+"tree hollows",78
+"tree injury",40
+"tree pipit",34
+"tree selection",123
+"tree species",554
+"tree species composition",90
+"tree survival",57
+"tree use",62
+"coarse woody debris volume",78
+"dead branches",63
+"black woodpecker",35
+"cockaded woodpecker habitat",64
+"cockaded woodpecker population",61
+"down wood",78
+"downy woodpecker",89
+"eastern wood",121
+"forest and woodland",445
+"hairy woodpecker nests",70
+"hardwood forest",194
+"hardwood forests",248
+"hardwood midstory",222
+"hardwood species",93
+"hardwood stands",161
+"longleaf pine flatwoods",99
+"mixed hardwood forests",86
+"nesting woodpeckers",53
+"oak woodlands",133
+"pileated woodpeckers",73
+"pine flatwoods",142
+"pine woodlands",117
+"spotted woodpecker",144
+"toed woodpecker",163
+"toed woodpecker picoides tridactylus",99
+"toed woodpeckers",137
+"upland hardwood",134
+"upland hardwood forest",96
+"western wood",61
+"wood borers",59
+"wood decay",55
+"wood products",56
+"wood thrush",82
+"wood thrushes",67
+"woodland conditions",85
+"woodpecker abundance",48
+"woodpecker age",38
+"woodpecker foraging",137
+"woodpecker habitat",178
+"woody material",49
+"woody plant species",59
+"woody species",131
+"woody stems",78
+"larger diameter",163
+"decayed snags",87
+"fir snags",76
+"pine snags",132
+"ponderosa pine snags",60
+"snag availability",92
+"snag characteristics",111
+"snag densities",161
+"snag dynamics",77
+"snag recruitment",42
+"snag use",80
+"british ecological society",108
+"disturbance ecology",39
+"ecological benefits",59
+"ecological consequences",141
+"ecological effects",92
+"ecological factors",61
+"ecological functions",74
+"ecological impacts",50
+"ecological importance",44
+"ecological integrity",60
+"ecological relationships",73
+"ecological requirements",33
+"ecological restoration",378
+"ecological restoration international",67
+"ecological role",110
+"ecological society",386
+"ecological values",28
+"foraging ecology",60
+"landscape ecology",96
+"restoration ecology",36
+"terrestrial ecology",44
+"ecosystem processes",134
+"natural disturbance processes",64
+"natural processes",55
+"population processes",41
+"successional processes",73
+"food availability",164
+"food source",64
+"food sources",24
+"food supplementation",40
+"food supply",72
+"available resources",49
+"forest resources",77
+"habitat resources",36
+"natural resources",25
+"resource availability",58
+"resource managers",50
+"resource selection",202
+"forage availability",55
+"foraging birds",109
+"foraging guild",117
+"foraging guilds",73
+"foraging habitat selection",76
+"foraging opportunities",92
+"foraging species",110
+"foraging substrate",74
+"foraging substrates",77
+"fire behavior",136
+"nesting behavior",60
+"available habitat",95
+"breeding habitat",161
+"burned habitat",85
+"burned habitats",128
+"forest habitat",450
+"forest habitats",119
+"forested habitats",43
+"grassland habitats",74
+"habitat alteration",108
+"habitat association",155
+"habitat associations",182
+"habitat availability",104
+"habitat changes",107
+"habitat conservation",121
+"habitat degradation",124
+"habitat distribution",77
+"habitat elements",63
+"habitat factors",45
+"habitat fragmentation",238
+"habitat heterogeneity",124
+"habitat loss",555
+"habitat management",674
+"habitat patch",62
+"habitat patches",103
+"habitat preferences",108
+"habitat relationships",146
+"habitat requirements",180
+"habitat scale",52
+"habitat specialists",37
+"habitat species",301
+"habitat structures",133
+"habitat suitability models",85
+"habitat type",189
+"habitat types",178
+"habitat utilization",180
+"habitat variables",288
+"occupied habitats",34
+"pine habitat",117
+"pine habitats",63
+"postfire habitats",60
+"potential habitat",58
+"preferred habitat",51
+"quality habitat",120
+"riparian habitats",110
+"roosting habitat",108
+"savanna habitat",113
+"source habitat",165
+"successional habitat",162
+"successional habitats",102
+"unburned habitat",49
+"unburned habitats",135
+"wildlife habitat",386
+"aged forest",44
+"american foresters",102
+"american forests",131
+"angelina national forest",74
+"apalachicola national forest",78
+"black spruce boreal forest",54
+"black spruce forest",44
+"boreal forest",900
+"boreal forest landscapes",114
+"boreal forests",528
+"burned conifer forests",61
+"burned pine forests",108
+"canadian boreal forest",97
+"canopy forest",144
+"canopy forests",257
+"conecuh national forest",51
+"conifer forest",360
+"conifer forests",576
+"coniferous forest",251
+"coniferous forests",405
+"deciduous forest",60
+"deciduous forests",72
+"degraded forest",37
+"disturbed forest",92
+"dry conifer forests",75
+"dry forest",139
+"dry forests",129
+"eastern forests",45
+"elevation forests",55
+"forest age",155
+"forest attributes",82
+"forest biodiversity",60
+"forest bird communities",128
+"forest bird species",157
+"forest birds",180
+"forest blocks",81
+"forest canopy",147
+"forest characteristics",106
+"forest communities",147
+"forest composition",105
+"forest conditions",321
+"forest degradation",78
+"forest disturbance",148
+"forest disturbances",69
+"forest dynamics",130
+"forest ecosystem",168
+"forest ecosystems",451
+"forest edge",18
+"forest edges",124
+"forest fauna",78
+"forest floor",331
+"forest fragmentation",217
+"forest fragments",47
+"forest harvesting",112
+"forest health",101
+"forest history",60
+"forest insects",73
+"forest landscape",230
+"forest landscapes",248
+"forest management",1863
+"forest management activities",57
+"forest management practices",246
+"forest managers",412
+"forest patches",252
+"forest productivity",82
+"forest remnants",46
+"forest restoration",556
+"forest restoration treatments",119
+"forest service",448
+"forest sites",106
+"forest specialist",106
+"forest species",301
+"forest stands",538
+"forest succession",100
+"forest thinning",153
+"forest type",227
+"forest types",513
+"forest vegetation",80
+"forested ecosystems",53
+"forested landscape",71
+"forestry practices",229
+"green forests",62
+"growth forest",205
+"growth forests",225
+"hickory forest",60
+"logged forest",109
+"longleaf forests",45
+"longleaf pine forest",188
+"longleaf pine forests",311
+"mature forest",143
+"mature forest stands",45
+"mature forests",247
+"mixed conifer forest",175
+"mixed conifer forests",234
+"mixed coniferous forests",105
+"national forest",930
+"national forests",187
+"native forest",42
+"north american forests",127
+"oak forest",124
+"oak forests",139
+"ocala national forest",37
+"osceola national forest",69
+"ouachita national forest",154
+"pine forest",550
+"pine forests",1333
+"ponderosa pine forest",57
+"ponderosa pine forests",369
+"postfire forest",68
+"postfire forests",151
+"seral forest",76
+"seral forests",49
+"severely burned forests",52
+"southern forests",52
+"successional forests",83
+"sustainable forest management",67
+"sustainable forestry",107
+"tropical forests",100
+"unburned forest",279
+"unburned forests",349
+"undisturbed forests",109
+"unlogged forest",97
+"usda forest service",150
+"virgin forests",48
+"western north american forests",92
+"age structure",147
+"community structure",187
+"population structure",70
+"spatial structure",48
+"structural attributes",173
+"structural characteristics",133
+"structural complexity",66
+"structural differences",60
+"structural diversity",126
+"vertical structure",76
+"bare ground",106
+"ground layer",121
+"ground layer vegetation",61
+"ground level",124
+"ground nesters",80
+"fuel characteristic classification",56
+"fuel characteristic classification system",56
+"fuel characteristics",53
+"landscape characteristics",57
+"site characteristics",202
+"natural component",35
+"body condition",53
+"canopy conditions",94
+"environmental conditions",125
+"fuel conditions",74
+"historical conditions",96
+"landscape conditions",70
+"reference conditions",127
+"seral conditions",52
+"site conditions",49
+"soil conditions",62
+"weather conditions",70
+"ecosystem restoration",297
+"grassland restoration",84
+"longleaf pine restoration",137
+"restoration efforts",282
+"restoration methods",99
+"restoration objectives",99
+"restoration planning",51
+"restoration strategies",55
+"restoration treatments",348
+"savanna restoration",103
+"model selection",229
+"roost selection",64
+"selective harvesting",71
+"selective logging",180
+"footed mouse",71
+"house wren",101
+"land use",442
+"major cause",90
+"major causes",46
+"population censuses",45
+"space use",132
+"useful tool",78
+"livestock grazing",83
+"mountain bluebird",143
+"mountain bluebirds",66
+"mountain chickadee",122
+"northern rocky mountains",130
+"ouachita mountains",170
+"rocky mountains",235
+"southern appalachian mountains",109
+"burned pine",169
+"burned ponderosa pine",174
+"corsican pine",32
+"dependent pine",45
+"jack pine",203
+"jack pine stands",71
+"loblolly pine",219
+"lodgepole pine",320
+"longleaf pine",1668
+"longleaf pine ecosystem",188
+"longleaf pine ecosystems",117
+"longleaf pine sandhills",144
+"longleaf pine savannas",49
+"longleaf pine stands",142
+"longleaf pines",126
+"mature longleaf pine",122
+"mature pine",240
+"mixed pine",127
+"pine ecosystems",262
+"pine plantation",77
+"pine plantations",172
+"pine rocklands",46
+"pine savannas",119
+"pine sawtimber",60
+"pine seeds",38
+"pine species",136
+"pine stands",561
+"ponderosa pine",1354
+"ponderosa pines",117
+"rotation pine",68
+"shortleaf pine",225
+"slash pine",101
+"southeastern pine",68
+"southern pine",270
+"subalpine fir",85
+"sugar pine",51
+"untreated pine",79
+"upland pine",137
+"white pine",68
+"yellow pine",84
+"active nests",83
+"avian nest",90
+"daily nest survival",110
+"nest age",62
+"nest box",54
+"nest boxes",62
+"nest densities",118
+"nest density",136
+"nest failure",121
+"nest locations",93
+"nest predation",125
+"nest predators",128
+"nest survival rates",141
+"nesting bird",417
+"nesting bird species",216
+"nesting birds",911
+"nesting densities",50
+"nesting density",121
+"nesting period",55
+"nesting season",79
+"nesting site",92
+"nesting sites",84
+"nesting species",578
+"nesting success",162
+"nestling period",37
+"potential nesting",72
+"secondary cavity nesters",124
+"shrub nesters",56
+"species nesting",149
+"successful nests",65
+"breeding site",170
+"colony sites",31
+"control sites",96
+"opposite pattern",51
+"reference sites",120
+"roost sites",78
+"site availability",69
+"site fidelity",83
+"site occupancy",88
+"site preparation",123
+"site species",52
+"strong site",55
+"study site",137
+"study sites",209
+"unburned sites",195
+"breeding success",70
+"plant succession",61
+"postfire succession",72
+"successful reproduction",22
+"successional species",91
+"successional vegetation",65
+"affected survival",40
+"annual survival",73
+"apparent survival",42
+"daily survival rates",180
+"juvenile survival",52
+"survival estimates",63
+"reproductive output",80
+"reproductive parameters",88
+"reproductive rates",69
+"shrub density",81
+"shrub height",66
+"shrub layer",145
+"shrub species",52
+"bird densities",146
+"low densities",65
+"lower densities",54
+"population densities",79
+"conifer stands",114
+"coniferous stands",77
+"control stands",115
+"deciduous stands",52
+"dense stands",77
+"growth stands",185
+"mature stands",111
+"mixed conifer stands",71
+"origin stands",95
+"stand ages",67
+"stand density",65
+"stand dynamics",67
+"stand level",247
+"stand scale",147
+"stand types",75
+"unburned stands",179
+"unmanaged stands",89
+"untreated stands",137
+"wildlife stand improvement",114
+"active management",77
+"adaptive management",158
+"age classes",329
+"age distribution",87
+"assemblage composition",86
+"carbon storage",57
+"conservation management",137
+"current management practices",85
+"disturbance agents",62
+"ecosystem management",227
+"effective management",103
+"foliage gleaners",112
+"intensive management",130
+"land management",457
+"land management agencies",99
+"land management tool",84
+"land managers",482
+"management actions",197
+"management activities",354
+"management agencies",99
+"management concern",86
+"management decisions",122
+"management efforts",79
+"management goals",124
+"management guidelines",72
+"management history",78
+"management implications",127
+"management intensity",85
+"management measures",37
+"management objectives",253
+"management option",46
+"management options",59
+"management practice",70
+"management practices",856
+"management regimes",77
+"management scenarios",77
+"management strategies",337
+"management strategy",104
+"management systems",61
+"management techniques",141
+"management tool",275
+"management treatments",88
+"management units",53
+"partially salvage",89
+"salvage operations",55
+"salvage treatment",58
+"scale management",63
+"seral stages",97
+"species assemblages",162
+"timber management",59
+"vegetation management",67
+"western tanager",76
+"wildlife management",239
+"annual rates",55
+"conservation strategies",105
+"detection rates",85
+"growth rates",150
+"invertebrate species",56
+"moderate levels",53
+"mortality rate",56
+"mortality rates",103
+"occupancy rates",54
+"population growth rates",59
+"predation rates",57
+"similar rates",54
+"strategic planning",65
+"terrestrial vertebrates",42
+"vertebrate species",131
+"vertebrate taxa",47
+"time frames",63
+"time periods",108
+"biscuit fire",60
+"contemporary fires",56
+"fire disturbance",147
+"fire edges",53
+"fire exclusion",423
+"fire hazard",72
+"fire season",174
+"fire suppression",964
+"fire surrogate",230
+"fire weather",76
+"frequent fires",120
+"intensity fires",68
+"low severity fires",79
+"postfire logging",77
+"recent fires",63
+"replacement fires",88
+"season fires",150
+"severe fire",162
+"severe fires",141
+"severe wildfire",67
+"severe wildfires",91
+"severity wildfire",125
+"severity wildfires",84
+"summer wildfire",135
+"surface fires",68
+"wildfire activity",90
+"wildfire risk",55
+"wildland fire",132
+"dependent mortality",50
+"oak mortality",25
+"herbaceous vegetation",138
+"level vegetation",61
+"midstory vegetation",91
+"riparian vegetation",67
+"vegetation change",52
+"vegetation communities",105
+"vegetation composition",135
+"vegetation data",64
+"vegetation responses",72
+"vegetation science",61
+"vegetation type",135
+"vegetation types",226
+"vegetation variables",68
+"burn frequency",68
+"burn intervals",106
+"burn severities",116
+"burn treatments",174
+"burn units",56
+"burned landscape",65
+"burned treatments",94
+"dormant season burning",72
+"dormant season burns",47
+"frequent burning",118
+"recent burns",118
+"season burning",158
+"spring burn",83
+"spring burning",115
+"unburned control",155
+"unburned control plots",70
+"unburned controls",69
+"unburned patches",72
+"unburned plots",120
+"severity data",39
+"severity patches",54
+"control plots",391
+"experimental plots",51
+"logged plots",102
+"permanent plots",59
+"reference plots",94
+"sample plots",55
+"study plots",128
+"unlogged plots",88
+"adverse effects",86
+"cumulative effects",86
+"detrimental effects",135
+"direct effects",127
+"edge effects",66
+"effective conservation",71
+"effects model",34
+"effects models",94
+"indirect effects",142
+"little effect",234
+"negative effect",191
+"negative effects",170
+"positive effect",86
+"positive effects",96
+"potential effects",87
+"quadratic effect",68
+"significant effect",37
+"significant effects",119
+"strong effects",57
+"term effects",274
+"treatment effects",67
+"variable effects",53
+"historical data",54
+"historical records",55
+"intensity levels",72
+"hydrological regimes",45
+"frequent disturbance",78
+"fuel bed",62
+"fuel complexes",69
+"fuel consumption",92
+"fuel loading",125
+"fuel loadings",49
+"fuel moisture",87
+"fuel reduction treatments",254
+"surface fuels",56
+"reduction treatments",301
+"ammodramus henslowii",67
+"gene flow",32
+"hollow abundance",48
+"low density",103
+"significantly lower",232
+"dynamic nature",52
+"natural enemies",28
+"natural landscape",58
+"natural regeneration",90
+"natural variability",101
+"anthropogenic disturbance",153
+"anthropogenic disturbances",171
+"disturbance interactions",69
+"disturbance patterns",71
+"disturbance types",107
+"disturbed landscapes",46
+"human disturbance",115
+"scale disturbance",139
+"breeding season",599
+"breeding seasons",394
+"dormant season",289
+"growing seasons",162
+"avian abundance",93
+"avian biodiversity",105
+"avian community composition",136
+"avian conservation",126
+"avian diversity",137
+"avian responses",64
+"avian species",373
+"avian species richness",175
+"animal communities",49
+"arthropod communities",56
+"biological communities",69
+"faunal communities",93
+"grassland communities",59
+"mammal communities",85
+"plant communities",275
+"wildlife communities",104
+"bird conservation",151
+"bird density",180
+"bird diversity",202
+"bird populations",254
+"bird richness",56
+"bird species",1954
+"bird species richness",209
+"bird survey",48
+"bird surveys",107
+"breeding bird community",158
+"breeding bird species",149
+"breeding birds",390
+"dependent bird species",70
+"grassland birds",51
+"headed cowbird",138
+"individual birds",57
+"land birds",75
+"resident birds",55
+"total bird abundance",135
+"total bird density",64
+"western bluebird",274
+"wintering birds",41
+"compositional analysis",60
+"landscape composition",148
+"northern flickers colaptes auratus",83
+"corsican nuthatch sitta whiteheadi",50
+"headed nuthatch",87
+"headed nuthatches",165
+"sitta whiteheadi",50
+"melanerpes erythrocephalus",166
+"northern arizona",141
+"northern bobwhite",230
+"northern bobwhites",116
+"northern california",58
+"northern cardinal",86
+"northern cardinals",90
+"northern flickers",113
+"northern rockies",78
+"northern sierra nevada",76
+"northern spotted owl",83
+"picoides albolarvatus",116
+"picoides pubescens",80
+"picoides tridactylus",156
+"animal populations",109
+"breeding population",62
+"insect populations",78
+"isolated populations",88
+"local populations",44
+"metapopulation dynamics",50
+"metapopulation models",48
+"population density",159
+"population growth",110
+"population level",143
+"population levels",155
+"population persistence",82
+"population responses",69
+"population sinks",58
+"population trends",135
+"population viability",84
+"populus tremuloides",358
+"populus tremuloides michx",48
+"abundant species",54
+"amphibian species",43
+"animal species",176
+"ant species",77
+"associated species",285
+"bat species",37
+"breeding species",93
+"common species",49
+"coniferous species",48
+"dependent species",340
+"dependent wildlife species",50
+"dwelling species",49
+"endangered species",462
+"focal species",154
+"game species",45
+"grassland species",74
+"herbaceous species",73
+"host species",34
+"indicator species",303
+"indicator species analysis",80
+"individual species",339
+"invasive species",105
+"key species",37
+"keystone species",78
+"listed species",67
+"mammal species",139
+"native species",133
+"numerous wildlife species",68
+"oak species",81
+"opportunistic species",69
+"plant species",341
+"plant species richness",90
+"pyrophilous species",55
+"rare species",123
+"resident species",76
+"saproxylic species",115
+"sensitive species",154
+"seven species",104
+"specialist species",135
+"species act",102
+"species breeding",98
+"species conservation",123
+"species dependent",127
+"species distribution models",159
+"species level",96
+"species occurrence",103
+"species presence",47
+"species responses",234
+"species significantly",96
+"species turnover",31
+"target species",78
+"threatened species",199
+"various species",90
+"various wildlife species",108
+"wildlife species",614
+"occupancy modeling",58
+"occupancy probability",78
+"abundance data",50
+"ant abundance",72
+"arthropod abundance",72
+"prey abundance",52
+"relative abundance",604
+"relative abundances",80
+"relatively abundant",91
+"total abundance",71
+"community dynamics",150
+"sink dynamics",56
+"temporally dynamic",41
+"class distribution",39
+"distribution patterns",47
+"spatial distribution",140
+"biodiversity conservation",231
+"biological diversity",273
+"genetic diversity",28
+"plant diversity",146
